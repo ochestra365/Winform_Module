@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerDigitalWatch", "TimerD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatchApplication", "..\StopWatchApplication\StopWatchApplication.csproj", "{FF9BE5B2-9D05-4822-BBDD-03102B67A6CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoForm", "..\TwoForm\TwoForm.csproj", "{2DDB5448-0CE2-40C4-A00E-B02E10EB85D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FF9BE5B2-9D05-4822-BBDD-03102B67A6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF9BE5B2-9D05-4822-BBDD-03102B67A6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF9BE5B2-9D05-4822-BBDD-03102B67A6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DDB5448-0CE2-40C4-A00E-B02E10EB85D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DDB5448-0CE2-40C4-A00E-B02E10EB85D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DDB5448-0CE2-40C4-A00E-B02E10EB85D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DDB5448-0CE2-40C4-A00E-B02E10EB85D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
