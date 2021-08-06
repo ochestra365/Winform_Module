@@ -13,6 +13,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MESSAGEBOXKK", "..\MESSAGEB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBox, Lable, Button", "..\TextBox, Lable, Button\TextBox, Lable, Button.csproj", "{195C3B67-6E1E-4BE1-8864-B9C2D7406BCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLable", "..\MultiLable\MultiLable.csproj", "{D7B7C33C-2D6C-415F-BD12-5F58CAA1194B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flag", "..\flag\flag.csproj", "{494E1E88-FB34-434F-8E9D-4103A4C06AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHECKBOXW", "..\CHECKBOXW\CHECKBOXW.csproj", "{394ED06F-781D-46A4-8FB0-003F0B427E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonAndGroupBox", "..\RadioButtonAndGroupBox\RadioButtonAndGroupBox.csproj", "{D80696C9-B4EE-4B03-93A4-55FD287C8F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginWindow", "..\LoginWindow\LoginWindow.csproj", "{6D082B32-F939-497E-A8E4-C70E58861001}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +49,26 @@ Global
 		{195C3B67-6E1E-4BE1-8864-B9C2D7406BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{195C3B67-6E1E-4BE1-8864-B9C2D7406BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{195C3B67-6E1E-4BE1-8864-B9C2D7406BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B7C33C-2D6C-415F-BD12-5F58CAA1194B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B7C33C-2D6C-415F-BD12-5F58CAA1194B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B7C33C-2D6C-415F-BD12-5F58CAA1194B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B7C33C-2D6C-415F-BD12-5F58CAA1194B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494E1E88-FB34-434F-8E9D-4103A4C06AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494E1E88-FB34-434F-8E9D-4103A4C06AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494E1E88-FB34-434F-8E9D-4103A4C06AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494E1E88-FB34-434F-8E9D-4103A4C06AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394ED06F-781D-46A4-8FB0-003F0B427E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394ED06F-781D-46A4-8FB0-003F0B427E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394ED06F-781D-46A4-8FB0-003F0B427E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394ED06F-781D-46A4-8FB0-003F0B427E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80696C9-B4EE-4B03-93A4-55FD287C8F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80696C9-B4EE-4B03-93A4-55FD287C8F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80696C9-B4EE-4B03-93A4-55FD287C8F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80696C9-B4EE-4B03-93A4-55FD287C8F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D082B32-F939-497E-A8E4-C70E58861001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D082B32-F939-497E-A8E4-C70E58861001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D082B32-F939-497E-A8E4-C70E58861001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D082B32-F939-497E-A8E4-C70E58861001}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
