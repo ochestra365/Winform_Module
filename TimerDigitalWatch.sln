@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MASKEDTEXTBOX", "..\MASKEDT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGB_Color_Control", "..\RGB_Color_Control\RGB_Color_Control.csproj", "{708556DF-E866-40A7-8E82-1A10FC88DC91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessDataBase2", "..\AccessDataBase2\AccessDataBase2.csproj", "{0D157568-52E0-44E3-8EBB-6F9F66AC6355}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{708556DF-E866-40A7-8E82-1A10FC88DC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{708556DF-E866-40A7-8E82-1A10FC88DC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{708556DF-E866-40A7-8E82-1A10FC88DC91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D157568-52E0-44E3-8EBB-6F9F66AC6355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D157568-52E0-44E3-8EBB-6F9F66AC6355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D157568-52E0-44E3-8EBB-6F9F66AC6355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D157568-52E0-44E3-8EBB-6F9F66AC6355}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
